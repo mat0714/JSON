@@ -13,7 +13,6 @@ public class Main {
     public static void main(String[] args) {
 
         System.out.println("JSON change");
-        System.out.println("lol");
 
         String line = null;
         FileReader fileReader;
