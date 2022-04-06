@@ -12,7 +12,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        System.out.println("JSON");
+        System.out.println("JSON change");
 
         String line = null;
         FileReader fileReader;
