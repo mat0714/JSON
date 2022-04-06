@@ -14,6 +14,7 @@ public class Main {
 
         System.out.println("JSON change");
         System.out.println("something");
+        System.out.println("something2");
 
         String line = null;
         FileReader fileReader;
