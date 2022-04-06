@@ -12,9 +12,11 @@ public class Main {
 
     public static void main(String[] args) {
 
+        System.out.println("JSON");
+
         String line = null;
-        FileReader fileReader = null;
-        BufferedReader bufferedReader = null;
+        FileReader fileReader;
+        BufferedReader bufferedReader;
         try {
             fileReader = new FileReader("OnePerson.json");
             bufferedReader = new BufferedReader(fileReader);
