@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Adamos",
+    "surname": "Budowniczy",
+    "age": 33,
+    "children": [
+      {
+        "name": "Bogdan"
+      },
+      {
+        "name": "Pawełek"
+      }
+    ]
+  },
+  {
+    "name": "Basia",
+    "surname": "Spryciula",
+    "age": 33,
+    "children": [
+      {
+        "name": "Agnieszka"
+      },
+      {
+        "name": "Elfo"
+      }
+    ]
+  }
+]

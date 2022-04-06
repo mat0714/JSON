@@ -1,0 +1,13 @@
+{
+  "name": "Adamos",
+  "surname": "Budowniczy",
+  "age": 33,
+  "children": [
+    {
+      "name": "Bogdan"
+    },
+    {
+      "name": "Pawełek"
+    }
+  ]
+}
