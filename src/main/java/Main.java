@@ -18,6 +18,7 @@ public class Main {
         System.out.println("something3");
         System.out.println("something4");
         System.out.println("something5");
+        System.out.println("something6");
 
         String line = null;
         FileReader fileReader;
