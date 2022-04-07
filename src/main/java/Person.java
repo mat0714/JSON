@@ -20,7 +20,7 @@ public class Person {
 
     public Person createOnePerson() {
         Person person1 = new Person(
-                "Adamos", "Budowniczy", 33, Arrays.asList(
+                "Adamos", "Budowniczy", 34, Arrays.asList(
                 new Child("Bogdan"), new Child("Pawełek")));
         return person1;
     }
