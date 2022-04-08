@@ -29,6 +29,7 @@ public class Main {
         }
 
         System.out.println("Something 2");
+        System.out.println("Something 3");
 
     }
 }
