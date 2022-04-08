@@ -12,14 +12,6 @@ public class Main {
 
     public static void main(String[] args) {
 
-        System.out.println("JSON change");
-        System.out.println("something");
-        System.out.println("something2");
-        System.out.println("something3");
-        System.out.println("something4");
-        System.out.println("something5");
-        System.out.println("something6");
-
         String line = null;
         FileReader fileReader;
         BufferedReader bufferedReader;
