@@ -32,6 +32,8 @@ public class Main {
         System.out.println("Something 3");
         System.out.println("Something 4");
         System.out.println("Something 5");
+        System.out.println("Something 6");
+        System.out.println("Something 7");
 
     }
 }
