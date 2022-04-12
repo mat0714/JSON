@@ -9,6 +9,7 @@ public class Main {
         System.out.println("Git: Hello3");
         System.out.println("Git: Hello4");
         System.out.println("Git: Hello5");
+        System.out.println("Git: Hello6");
 
         String line = null;
         FileReader fileReader;
