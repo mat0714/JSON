@@ -1,19 +1,9 @@
-import com.google.gson.Gson;
-import com.google.gson.GsonBuilder;
-import com.google.gson.stream.JsonReader;
-
 import java.io.*;
-import java.time.chrono.ThaiBuddhistChronology;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
 
 public class Main {
 
     public static void main(String[] args) {
-        
-        System.out.println("GitHub: something 1");
-        System.out.println("GitHub: something 2");
+
 
         String line = null;
         FileReader fileReader;
@@ -29,13 +19,6 @@ public class Main {
             e.printStackTrace();
         }
 
-        System.out.println("Something 2");
-        System.out.println("Something 3");
-        System.out.println("Something 4");
-        System.out.println("Something 5");
-        System.out.println("Something 6");
-        System.out.println("Something 7");
-        System.out.println("Something 8");
 
     }
 }
