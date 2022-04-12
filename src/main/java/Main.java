@@ -5,7 +5,7 @@ public class Main {
     public static void main(String[] args) {
 
         System.out.println("Git: Hello");
-        System.out.println("Git: Hello2");
+        System.out.println("Git: Hello");
 
         String line = null;
         FileReader fileReader;
