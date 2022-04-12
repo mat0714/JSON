@@ -11,6 +11,7 @@ public class Main {
         System.out.println("Git: Hello5");
         System.out.println("Git: Hello6");
         System.out.println("Git: Hello7");
+        System.out.println("Git: Hello8");
 
         String line = null;
         FileReader fileReader;
